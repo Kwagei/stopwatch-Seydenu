@@ -16,4 +16,7 @@ button {
 audio {
   display: none;
 }
-
+body {
+  color: black ;
+  background-color: goldenrod;
+}
